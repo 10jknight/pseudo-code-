@@ -1,0 +1,9 @@
+Input list
+swaps = true
+While swaps
+    Swaps = false
+    For each number in list
+         If the number is bigger than the next number
+            Swap them
+            Swaps= true
+Output list
